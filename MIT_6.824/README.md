@@ -1,1 +1,21 @@
+- [ ] Lecture 1 Introduction
+- [ ] Lecture 2 RPC and Threads
+- [ ] Lecture 3 GFS
+- [ ] Lecture 4 Primary-Backup Replication
+- [ ] Lecture 5 
+- [ ] Lecture 6
+- [ ] Lecture 7
+- [ ] Lecture 0
+- [ ] Lecture 9
+- [ ] Lecture 10
+- [ ] Lecture 11
+- [ ] Lecture 12
+- [ ] Lecture 13
+- [ ] Lecture 14
+- [ ] Lecture 15
+- [ ] Lecture 16
+- [ ] Lecture 17
+- [ ] Lecture 18
+- [ ] Lecture 19
+- [ ] Lecture 20
 
